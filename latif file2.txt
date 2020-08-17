@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 latif new file name file2
+=======
+latif file 2 
+>>>>>>> 59f262288f8c6e46288bb0cbed4508b46ede2a1b
